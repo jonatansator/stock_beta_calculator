@@ -8,3 +8,6 @@
 ## Files
 - `stock_beta_calculator.xlsx`: Spreadsheet containing stock price data retrieval, daily return calculations, and beta estimation using SLOPE and COVARIANCE.P functions.
 - `output.png`: Plot.
+
+## Screenshots
+![output](output.png)
